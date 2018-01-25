@@ -14,6 +14,9 @@
 
 
 
+## vlc-android
+[libvlc-android-samples](https://github.com/woodyhi/libvlc-android-samples)
+
 
 ## shadowsocks (forded)
 [shadowsocks](https://github.com/woodyhi/shadowsocks) ([from](https://github.com/woodyhi/shadowsocks))
